@@ -1,5 +1,5 @@
 Another feature is earlier we used this to compile the code
-      <b> - javac filename.java </b>
+      <p> - javac filename.java </p>
 Then run this file using
       ##### - java filename
 

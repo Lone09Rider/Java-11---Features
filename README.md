@@ -1,7 +1,7 @@
-Another feature is earlier we used this to compile the code \n
-      - javac filename.java
+Another feature is earlier we used this to compile the code
+      ##### - javac filename.java
 Then run this file using
-      - java filename
+      ##### - java filename
 
 
 # But now it is:

@@ -1,7 +1,7 @@
 Another feature is earlier we used this to compile the code
       <p> - javac filename.java </p>
 Then run this file using
-      ##### - java filename
+      <p> - java filename </p>
 
 
 # But now it is:
